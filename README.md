@@ -1,1 +1,1 @@
-## Code quality improvement exercises
+## Improvement exercise
