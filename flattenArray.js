@@ -12,7 +12,7 @@ function flatten(array) {
       }
     });
   }
-
   depth(array);
+  
   return result;
 }
