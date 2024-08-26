@@ -7,4 +7,3 @@ const reverseVowels = (inputString) => {
   
     return characters.map(letter => isVowel(letter) ? vowels.pop() : letter).join('');
   };
-  

@@ -26,4 +26,3 @@ function convertToRoman(number) {
   
     return output;
   }
-  
